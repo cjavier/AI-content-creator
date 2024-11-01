@@ -1,0 +1,42 @@
+# Frontend
+
+# environment files
+/frontend/.env
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local
+
+# dependencies
+/frontend/node_modules
+/frontend/.pnp
+/frontend/.pnp.js
+
+# testing
+/frontend/coverage
+
+# production build
+/frontend/build
+
+# misc
+/frontend/.DS_Store
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+
+# Backend
+
+# dependencies
+/backend/node_modules
+/backend/package-lock.json
+
+# Firebase configuration or other sensitive files
+/backend/contentai-3f684-firebase-adminsdk-roi76-79cb9813cf.json
+/backend/etc/*
+
+# environment files
+/backend/.env
+
+# General files to ignore across project
+.DS_Store
+*.log
