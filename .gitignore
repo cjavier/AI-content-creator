@@ -40,3 +40,5 @@
 # General files to ignore across project
 .DS_Store
 *.log
+
+/node_modules
